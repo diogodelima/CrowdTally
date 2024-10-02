@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrowdTally</string>
+    <string name="counter_decrease_text">-</string>
+    <string name="counter_increase_text">+</string>
+    <string name="configure_text">Configure</string>
+    <string name="configure_save">Save</string>
+</resources>
